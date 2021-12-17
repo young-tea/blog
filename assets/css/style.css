@@ -188,20 +188,12 @@ a:hover{
 	width: 50%;
 }
 
-.card-text {
-	margin: 0;
-}
-
-.card-body {
-	margin: 0;
-}
-
-.img-fluid {
-	margin: 0;
-}
-
 .zag {
 	text-align: center;
+}
+
+#aLogo {
+	width: 50%;
 }
 
 
